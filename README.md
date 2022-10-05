@@ -4,7 +4,7 @@ Background: We will be exploring publicly available data from a financial servic
 <br />
 Lending club had a very interesting year in 2016, we will use lending data from 2007-2010 and be trying to classify and predict whether or not the borrower paid back their loan in full. 
 <br />
-This README contains detailed attribute descriptions for the dataset provided with this assignment. 
+This README contains detailed attribute descriptions for the dataset provided with this assignment. <br />
 credit.policy: 1 if the customer meets the credit underwriting criteria of LendingClub.com, and 0 otherwise.<br />
 purpose: The purpose of the loan (takes values "credit_card", "debt_consolidation", "educational", "major_purchase", "small_business", and "all_other").<br />
 int.rate: The interest rate of the loan, as a proportion (a rate of 11% would be stored as 0.11). Borrowers judged by LendingClub.com to be more risky are assigned higher interest rates.<br />
@@ -18,5 +18,5 @@ revol.util: The borrower's revolving line utilization rate (the amount of the cr
 inq.last.6mths: The borrower's number of inquiries by creditors in the last 6 months.<br />
 delinq.2yrs: The number of times the borrower had been 30+ days past due on a payment in the past 2 years.<br />
 pub.rec: The borrower's number of derogatory public records (bankruptcy filings, tax liens, or judgments).<br />
-
+<br />
 Source:https://www.lendingclub.com/
